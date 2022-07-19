@@ -33,6 +33,5 @@ class ViewController: UIViewController {
         counter += 1
         updateCounterLabel()
     }
-    
 }
 
